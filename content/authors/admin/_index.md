@@ -1,7 +1,7 @@
 ---
 title: Shen Wang
 role: Research Assistant
-avatar_filename: img-shen.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include deep learning applications in computational
   fluid dynamics, micro-fluidics, and computer vision.
 interests:
