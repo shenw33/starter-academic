@@ -8,7 +8,11 @@ summary: "222222222"
 header:
   caption: ""
   image: ""
-featured: false
+featured: true
+tags:
+  - "1"
+  - "2"
+  - "3"
 image:
   filename: img_92401.jpg
 ---
