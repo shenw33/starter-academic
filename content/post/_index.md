@@ -1,14 +1,11 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: MY FIRST POST
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+subtitle: Testing netlify
+date: 2021-01-12T07:11:19.105Z
+draft: false
 ---
+王绅的个人空间
